@@ -40,5 +40,5 @@ O código utiliza o gerador de números pseudo-aleatórios do NumPy (np.random.s
 Se duas pessoas utilizarem a mesma planilha e a mesma semente (número ou hash), o resultado da ordem de desempate será exatamente o mesmo, garantindo total transparência ao processo.
 ________________________________________
 ⚖️ Licença
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença GNU General Public License v3.0.
 
